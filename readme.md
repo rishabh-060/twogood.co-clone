@@ -1,11 +1,8 @@
 # twogood.co web clone
-## This project is made in simple HTML, CSS, JavaScript
+### This project is made in simple HTML, CSS, JavaScript
 
 # Prerequisites
-- HTML
-- CSS
-- Locomotive JS
-- ScrollTrigger JS
+- Just Need any browser to run
 
 
 ## Made by 
